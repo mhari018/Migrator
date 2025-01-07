@@ -1,0 +1,63 @@
+{
+  "id": "d419a5a9-70d6-47ab-b620-b15b6bd7bd78",
+  "name": "M ORG MNTKO PRTY MIX (TAKO+SAUSAGE) 16 P",
+  "brand": "GINDACO",
+  "description": null,
+  "image_url": "",
+  "metadata": {
+    "name": "M ORG MNTKO PRTY MIX (TAKO+SAUSAGE) 16 P",
+    "code": "10425011",
+    "category": {
+      "code": "F1000104",
+      "name": "Finish Good - Limited Menu"
+    },
+    "series": {
+      "code": "F10001040202",
+      "name": "Gindaco"
+    },
+    "selling": false,
+    "external": false,
+    "pickup": false,
+    "delivery": false
+  },
+  "available_platform": [],
+  "site_listing": [
+    "F338",
+    "F631",
+    "F645",
+    "F001",
+    "F002",
+    "F003",
+    "F004",
+    "F005",
+    "F006",
+    "F007",
+    "F008",
+    "F009",
+    "F010",
+    "F011",
+    "F012",
+    "F013",
+    "F014",
+    "F015",
+    "F016",
+    "F017",
+    "F019",
+    "F021",
+    "F022",
+    "F020",
+    "F023",
+    "F025",
+    "F300",
+    "F027"
+  ],
+  "categories": [],
+  "options": [],
+  "combination": [],
+  "characteristic": [],
+  "created_at": "2022-07-28T04:19:49.000+00:00",
+  "created_by": "system-consumer",
+  "updated_at": "2024-08-06T06:35:01.756+00:00",
+  "updated_by": "system-consumer",
+  "pim_updated_at": "2024-08-06T04:24:08.000+00:00"
+}
